@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 aula-microservice:
-  greeting: "Hello dev"
-  default-value: "bem vindo novamente!"
+  greeting: "Os homi, sejam"
+  default-value: "bem vindos novamente!"
