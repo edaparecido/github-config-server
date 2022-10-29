@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: aula-microservice
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+aula-microservice:
+  greeting: "Olá Cabra Macho"
+  default-value: "sim sinhô"
